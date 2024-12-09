@@ -10,7 +10,7 @@
   "dependencies": {
     "@webcomponents/webcomponentsjs": "2.3.0",
     "lit-element": "2.2.1",
-    "nanoid": "2.1.6",
+    "nanoid": "3.3.8",
     "pwa-helpers": "0.9.1",
     "redux": "4.0.4",
     "reselect": "^4.0.0"
